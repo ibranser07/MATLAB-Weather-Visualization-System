@@ -1,7 +1,7 @@
 # MATLAB-Weather-Visualization-System
 A program built with MATLAB designed to create visualizations using weather data from https://www.weatherstats.ca/. This program is designed to take the information from the "Climate Daily" section (highlighted below) and visualize certain data (such as temperature, pressure, humidity and speed). The data is shown in a bar graph highlighting the minimum, maximum and average temperatures as well as a scatter plot showing the same values for every day in the date set.
 
-<img width="765" height="657" alt="{E857FFD7-53FE-4546-A413-5DC53AAE3A19}" src="https://github.com/user-attachments/assets/e4203427-68da-4cc5-a641-1ff03c3c9463" />
+<img width="765" height="657" alt="{E857FFD7-53FE-4546-A413-5DC53AAE3A19}" src="https://github.com/user-attachments/assets/0679c470-d2fe-46de-8be9-47242d8b891d" />
 
 # Screenshots of the Program
 
